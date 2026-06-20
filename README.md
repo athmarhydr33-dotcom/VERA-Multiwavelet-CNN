@@ -162,12 +162,12 @@ run generate_split_lists.m
 
 | Scenario | Accuracy | Precision | Recall | F1-score |
 |---|---|---|---|---|
-| Palm Identification | 99.77% | 99.77% | 99.77% | 99.77% |
+| Palm Identification | 99.77% | 99.82% | 99.77% | 99.77% |
 | Finger Identification | 85.23% | — | — | — |
-| Palm-Finger Fusion | 90.34% | — | — | — |
+| Palm-Finger Fusion | 90.34% | 81.23 | 76.52 | 78.80 |
 | Palm Gender | 100% | 100% | 100% | 100% |
-| Finger Gender | 93.18% | — | — | — |
-| Fusion Gender | 98.86% | — | — | — |
+| Finger Gender | 93.18% | 92.73 | 91.07 | 91.89 |
+| Fusion Gender | 98.86% | 93.92 | 96.47 | 95.18 |
 
 ---
 

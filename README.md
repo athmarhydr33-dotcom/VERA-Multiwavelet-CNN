@@ -6,7 +6,7 @@
 
 **Paper:** Lightweight Deep Identification Model based on Multi-Wavelet Transform with Multimodal Fusion of Palm and Finger Veins  
 **Journal:** International Journal of Intelligent Engineering and Systems (IJIES), 2025  
-**Authors:** Athmar H. Fadhil, Ahmed Aldhahab, Hanaa M. Al Abboodi  
+**Authors:** Athmar Haider Fadhil, Ahmed Aldhahab, Hanaa Mohsin Ali Al Abboodi  
 **Affiliation:** Department of Electrical Engineering, University of Babylon, Iraq  
 **Contact:** hanaa.ali@uobabylon.edu.iq
 
